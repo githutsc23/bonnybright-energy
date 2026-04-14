@@ -22,7 +22,7 @@ const specs = [
   {
     icon: DollarSign,
     label: "Pricing Structure",
-    value: "–$8.00 USD / Barrel",
+    value: "Pricing Set At",
     sub: "Off OPEC Cost (Gross/Net to Buyer)",
   },
 ];
