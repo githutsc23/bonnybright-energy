@@ -60,8 +60,7 @@ const Footer = () => {
               <div className="flex items-start gap-3">
                 <FileText size={16} className="text-gold mt-0.5 flex-shrink-0" />
                 <span>
-                  12-month contract minimum. Pricing at OPEC minus $8.00 USD per
-                  barrel. No spot deals.
+                Minimum contract duration of 12 months. Pricing set at OPEC rates minus an applicable discount agreed at deal closure. Spot deals not available.
                 </span>
               </div>
             </div>
